@@ -1,0 +1,54 @@
+{
+    "configuracion_juego": {
+        "ventana": {
+        "ancho": 800,
+        "alto": 600,
+        "titulo": "GALAXIAS"
+        },
+    "sonidos": {
+        "laser": {
+            "archivo": "laser-gun-shot-sound-future-sci-fi-lazer-wobble-chakongaudio-174883.mp3"
+        },
+        "explosion": {
+            "archivo": "retro-game-sfx-explosion-104422.mp3"
+        },
+        "impacto": {
+            "archivo": "video-game-hit-noise-001-135821.mp3"
+        },
+        "musica": {
+            "archivo": "8bit-music-for-game-68698.mp3"
+        }
+        },
+    "niveles": {
+        "duracion_level_1": 30,
+        "duracion_level_2": 60,
+        "duracion_level_3": 90
+        },
+    "fuentes": {
+        "interfaz": {
+            "nombre": "04b 30"
+        }
+        },
+    "imagenes": {
+        "fondo": "backgroundd.jpg",
+        "meteorito": "meteoro.png",
+        "nave_jugador": "personaje.png",
+        "nave_enemiga": "navenemiga.png"
+        }
+    },
+    "controles_juego": {
+        "disparo": {
+            "tecla": "MOUSE",
+            "boton": 1
+        },
+        "movimiento_izquierda": {
+            "tecla": "A"
+        },
+        "movimiento_derecha": {
+            "tecla": "D"
+        },
+        "activar_poder": {
+            "tecla": "F"
+        }
+    }
+    }
